@@ -1,0 +1,28 @@
+{
+  "client": {
+    "authClientSecret": "",
+    "apiKey": "",
+    "host": "localhost:8888",
+    "scheme": "http",
+    "headers": ""
+  },
+  "updates": [
+    {
+      "className": "Article",
+      "properties": [
+        {
+          "dataType": ["text[]"],
+          "description": "Authors of the article, if any",
+          "name": "authors",
+          "indexInverted": true
+        },
+        {
+          "dataType": ["number"],
+          "description": "Sentiment of the article",
+          "name": "sentiment",
+          "indexInverted": true
+        }
+      ]
+    }
+  ]
+}

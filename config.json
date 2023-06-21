@@ -1,0 +1,15 @@
+{
+  "client": {
+    "authClientSecret": "",
+    "apiKey": "",
+    "host": "",
+    "scheme": "",
+    "headers": ""
+  },
+  "changes": [
+    {
+      "className": "",
+      "properties": [{}]
+    }
+  ]
+}
