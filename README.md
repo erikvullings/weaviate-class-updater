@@ -5,6 +5,7 @@ Update a database class in Weaviate.
 ## Usage
 
 ```bash
+npm i -g weaviate-class-updater
 weaviate-class-updater
 ```
 
